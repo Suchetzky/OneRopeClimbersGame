@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Astronaut1
+  - Astronaut2
+  - Meteorite
+  - Crawler
+  - Rock
+  - Player1
+  - Player2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Astro
+  - Rope
+  - Characters
+  - BOX
+  - player swing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: backLayer3
+    uniqueID: 458371933
+    locked: 0
+  - name: backLayer2
+    uniqueID: 3093193007
+    locked: 0
+  - name: backLayer1
+    uniqueID: 1246237035
+    locked: 0
+  - name: Background
+    uniqueID: 2864151047
+    locked: 0
+  - name: Front
+    uniqueID: 1296782921
+    locked: 0
+  - name: Environment
+    uniqueID: 388667499
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1185498185
+    locked: 0
+  - name: Players
+    uniqueID: 3624854913
+    locked: 0
+  - name: Atmosphere
+    uniqueID: 3235099779
+    locked: 0
+  - name: playerSwing
+    uniqueID: 4131577641
+    locked: 0
